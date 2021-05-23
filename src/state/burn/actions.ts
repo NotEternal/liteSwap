@@ -1,9 +1,9 @@
 import { createAction } from '@reduxjs/toolkit'
 
-export enum Field {
-  LIQUIDITY_PERCENT = 'LIQUIDITY_PERCENT',
-  LIQUIDITY = 'LIQUIDITY',
-  CURRENCY_A = 'CURRENCY_A',
+      export enum Field {
+        LIQUIDITY_PERCENT = 'LIQUIDITY_PERCENT',
+        LIQUIDITY = 'LIQUIDITY',
+        CURRENCY_A = 'CURRENCY_A',
   CURRENCY_B = 'CURRENCY_B'
 }
 

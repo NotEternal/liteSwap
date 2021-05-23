@@ -67,15 +67,15 @@ export function colors(darkMode: boolean): Colors {
     // color text
     primaryText1: darkMode ? '#fff' : '#000',
 
-    // secondary colors
-    secondary1: '#2172E5',
-    secondary2: darkMode ? '#17000b26' : '#F6DDE8',
-    secondary3: darkMode ? '#17000b26' : '#FDEAF1',
+        // secondary colors
+        secondary1: '#2172E5',
+        secondary2: darkMode ? '#17000b26' : '#F6DDE8',
+        secondary3: darkMode ? '#17000b26' : '#FDEAF1',
 
-    // other
-    red1: '#FD4040',
-    red2: '#F82D3A',
-    red3: '#D60000',
+        // other
+        red1: '#FD4040',
+        red2: '#F82D3A',
+        red3: '#D60000',
     green1: '#27AE60',
     yellow1: '#FFE270',
     yellow2: '#F3841E',
@@ -83,7 +83,7 @@ export function colors(darkMode: boolean): Colors {
   };
 }
 
-export function theme(darkMode: boolean): DefaultTheme {
+      export function theme(darkMode: boolean): DefaultTheme {
   return {
     ...colors(darkMode),
 
