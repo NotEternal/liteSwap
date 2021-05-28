@@ -16,7 +16,7 @@
     "@types/multicodec": "1.0.0",
     "@types/node": "13.13.15",
     "@types/qs": "6.9.6",
-    "@types/react": "16.9.43",
+    "@types/react": "16.14.8",
     "@types/react-dom": "16.9.13",
     "@types/react-redux": "7.1.9",
     "@types/react-router-dom": "5.1.7",
