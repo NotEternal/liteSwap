@@ -7,6 +7,16 @@
 
 ## [Development on Ropsten](https://noteternal.github.io/liteSwap/)
 
+### [Liteswap Factory](https://ropsten.etherscan.io/address/0xde36e59bcac60d9d79035eea82eff1621a91221b)
+
+> **0xDe36E59Bcac60D9D79035eeA82efF1621A91221B**
+
+### [Liteswap Router](https://ropsten.etherscan.io/address/0x3d5ef7b4d4089a5177917f64fbecdd1bfcf70dae)
+
+> **0x3d5EF7b4D4089A5177917f64fbEcdd1bfcF70Dae**
+
+---
+
 ### Install Dependencies
 
 `npm install`
