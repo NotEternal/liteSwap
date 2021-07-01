@@ -8,8 +8,8 @@
   "devDependencies": {
     "@ethersproject/experimental": "5.0.1",
     "@popperjs/core": "2.9.2",
-    "@reach/dialog": "0.15.0",
-    "@reach/portal": "0.15.0",
+    "@reach/dialog": "0.15.2",
+    "@reach/portal": "0.15.2",
     "@reduxjs/toolkit": "1.6.0",
     "@types/jest": "26.0.23",
     "@types/lodash.flatmap": "4.5.6",
